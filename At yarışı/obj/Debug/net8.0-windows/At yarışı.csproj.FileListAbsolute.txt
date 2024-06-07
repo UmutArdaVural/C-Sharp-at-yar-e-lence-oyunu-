@@ -1,0 +1,38 @@
+C:\Users\umuta\source\repos\At yarışı\bin\Debug\net8.0-windows\At yarışı.exe
+C:\Users\umuta\source\repos\At yarışı\bin\Debug\net8.0-windows\At yarışı.deps.json
+C:\Users\umuta\source\repos\At yarışı\bin\Debug\net8.0-windows\At yarışı.runtimeconfig.json
+C:\Users\umuta\source\repos\At yarışı\bin\Debug\net8.0-windows\At yarışı.dll
+C:\Users\umuta\source\repos\At yarışı\bin\Debug\net8.0-windows\At yarışı.pdb
+C:\Users\umuta\source\repos\At yarışı\obj\Debug\net8.0-windows\At_yarışı.Form1.resources
+C:\Users\umuta\source\repos\At yarışı\obj\Debug\net8.0-windows\At_yarışı.Form2.resources
+C:\Users\umuta\source\repos\At yarışı\obj\Debug\net8.0-windows\At yarışı.csproj.GenerateResource.cache
+C:\Users\umuta\source\repos\At yarışı\obj\Debug\net8.0-windows\At yarışı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuta\source\repos\At yarışı\obj\Debug\net8.0-windows\At yarışı.AssemblyInfoInputs.cache
+C:\Users\umuta\source\repos\At yarışı\obj\Debug\net8.0-windows\At yarışı.AssemblyInfo.cs
+C:\Users\umuta\source\repos\At yarışı\obj\Debug\net8.0-windows\At yarışı.csproj.CoreCompileInputs.cache
+C:\Users\umuta\source\repos\At yarışı\obj\Debug\net8.0-windows\At yarışı.dll
+C:\Users\umuta\source\repos\At yarışı\obj\Debug\net8.0-windows\refint\At yarışı.dll
+C:\Users\umuta\source\repos\At yarışı\obj\Debug\net8.0-windows\At yarışı.pdb
+C:\Users\umuta\source\repos\At yarışı\obj\Debug\net8.0-windows\At yarışı.genruntimeconfig.cache
+C:\Users\umuta\source\repos\At yarışı\obj\Debug\net8.0-windows\ref\At yarışı.dll
+C:\Users\umuta\source\repos\At yarışı\obj\Debug\net8.0-windows\At_yarışı.Properties.Resources.resources
+C:\Users\umuta\source\repos\At yarışı\obj\Debug\net8.0-windows\At_yarışı.Form3.resources
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\At yarışı\bin\Debug\net8.0-windows\At yarışı.exe
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\At yarışı\bin\Debug\net8.0-windows\At yarışı.deps.json
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\At yarışı\bin\Debug\net8.0-windows\At yarışı.runtimeconfig.json
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\At yarışı\bin\Debug\net8.0-windows\At yarışı.dll
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\At yarışı\bin\Debug\net8.0-windows\At yarışı.pdb
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\At yarışı\obj\Debug\net8.0-windows\At_yarışı.Form1.resources
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\At yarışı\obj\Debug\net8.0-windows\At_yarışı.Form2.resources
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\At yarışı\obj\Debug\net8.0-windows\At_yarışı.Form3.resources
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\At yarışı\obj\Debug\net8.0-windows\At_yarışı.Properties.Resources.resources
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\At yarışı\obj\Debug\net8.0-windows\At yarışı.csproj.GenerateResource.cache
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\At yarışı\obj\Debug\net8.0-windows\At yarışı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\At yarışı\obj\Debug\net8.0-windows\At yarışı.AssemblyInfoInputs.cache
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\At yarışı\obj\Debug\net8.0-windows\At yarışı.AssemblyInfo.cs
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\At yarışı\obj\Debug\net8.0-windows\At yarışı.csproj.CoreCompileInputs.cache
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\At yarışı\obj\Debug\net8.0-windows\At yarışı.dll
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\At yarışı\obj\Debug\net8.0-windows\refint\At yarışı.dll
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\At yarışı\obj\Debug\net8.0-windows\At yarışı.pdb
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\At yarışı\obj\Debug\net8.0-windows\At yarışı.genruntimeconfig.cache
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\At yarışı\obj\Debug\net8.0-windows\ref\At yarışı.dll
